@@ -1,0 +1,88 @@
+/* login form css start */
+span.login_form_head_img {
+    display: flex;
+    gap: 8px;
+    align-items: center;
+    font-size: 1.5rem;
+    justify-content: center;
+    color: #433c50!important;
+    font-weight: 800;
+    margin-bottom: 20px;
+}
+span.login_form_head_img img {
+    width: 32px !important;
+}
+.login-form-header h4 {
+    color: #433c50 !important;
+    font-size: 1.25rem;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    gap: 9px;
+}
+.login-form-header p {
+    color: #6d6777;
+    font-size: 0.8rem;
+    margin-bottom: 15px;
+}
+form.dashboard_form label {
+    color: #433c50;
+    font-size: 0.9rem;
+    font-weight: 500;
+}
+span.hand_icon {
+    font-size: 1.2rem !important;
+}
+form.dashboard_form {
+    padding: 10px;
+}
+.login-form-footer p {
+    font-size: 0.9rem;
+    text-align: center;
+    color: #6d7777;
+    margin-top: 7px;
+}
+
+.login-form-footer p a {
+    color: #1da1f2;
+}
+
+.login-form-footer p a:hover {
+    opacity: 0.8;
+}
+.or_line_main .line_one {
+    width: 100% !important;
+    background: #d5d3d8 !important;
+    height: 1px;
+}
+.or_line_main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 9px;
+}
+.or_line_main .line_text {
+    display: inline-block;
+    font-size: .9375rem;
+    color: #433c50;
+}
+.footer_icons {
+    text-align: center;
+    margin-top: 10px;
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    justify-content: center;
+}
+.footer_icons i.fa.fa-google {
+    color: #dd4b39;
+}
+.footer_icons i {
+    font-size: 1.3rem;
+}
+
+
+
+
+/* login form css end */

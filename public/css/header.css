@@ -1,0 +1,32 @@
+
+
+/* header css start here */
+.header_inner {
+    display: flex;
+    align-items: center;
+    padding: 10px 0px;
+    background: #000;
+    box-shadow: 0px 0px 1px 0px #000 !important;
+    justify-content: space-around;
+}
+.button_main {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+.button_main button {
+    padding: 7px 20px;
+    box-shadow: 0px 0px 6px 0px #7d7d7d;
+    background: white;
+    display: flex;
+    border-radius: 5px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.header_logo img {
+    width: 100%;
+    max-width: 70%;
+}
+
+/* Header css end here */
